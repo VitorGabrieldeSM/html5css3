@@ -1,14 +1,5 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
-@font-face{
-  font-family: 'Android';
-  src: url('fontes/idroid.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  }
-
 *{
   margin: 0px;
   padding: 0px;
@@ -22,9 +13,9 @@
   --cor4: #1a5c37;
   --cor5: #063d1e;
   
-  --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-  --fonte-destaque:'Bebas Neue', 'Times new Roman';
-  --fonte-android: 'Android', 'Times new Roman';
+  --fonte-padrao: 'Times new Roman';
+  --fonte-destaque:'Times new Roman';
+  --fonte-android: 'Times new Roman';
 }
 
 body{
