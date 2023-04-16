@@ -13,9 +13,9 @@
   --cor4: #1a5c37;
   --cor5: #063d1e;
   
-  --fonte-padrao: 'Times new Roman';
-  --fonte-destaque:'Times new Roman';
-  --fonte-android: 'Times new Roman';
+  --fonte-padrao: Arial;
+  --fonte-destaque:'Bebas Neue', 'Android';
+  --fonte-android: 'Android';
 }
 
 body{
